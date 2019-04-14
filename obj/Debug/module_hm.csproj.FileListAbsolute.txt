@@ -1,0 +1,7 @@
+C:\Users\Windows10\source\repos\module_hm\module_hm\bin\Debug\module_hm.exe.config
+C:\Users\Windows10\source\repos\module_hm\module_hm\bin\Debug\module_hm.exe
+C:\Users\Windows10\source\repos\module_hm\module_hm\bin\Debug\module_hm.pdb
+C:\Users\Windows10\source\repos\module_hm\module_hm\obj\Debug\module_hm.csprojAssemblyReference.cache
+C:\Users\Windows10\source\repos\module_hm\module_hm\obj\Debug\module_hm.csproj.CoreCompileInputs.cache
+C:\Users\Windows10\source\repos\module_hm\module_hm\obj\Debug\module_hm.exe
+C:\Users\Windows10\source\repos\module_hm\module_hm\obj\Debug\module_hm.pdb
